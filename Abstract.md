@@ -2,8 +2,10 @@
 
 # Towards a better documentation system for Scientific Python
 
-:Author: Carlos Cordoba <ccordoba12@gmail.com>
-:Affiliation: The Spyder Project
+
+Author: Carlos Cordoba <ccordoba12@gmail.com>
+Affiliation: The Spyder Project
+
 
 Since version 2.0 Spyder has had a plugin called *Object Inspector* which let's
 users to interactively view docstrings rendered as beautiful HTML pages (with
