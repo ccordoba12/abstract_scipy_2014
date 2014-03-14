@@ -61,6 +61,15 @@ the perfect place to publicly release it and get feedback about it from the
 community.
 
 
+# Additional notes
+
+A good documentation system is a must for any scientific platform, given its
+interactive and exploratory nature: users want to quickly consult how to use
+the libraries they have imported. The idea of this proposal is to show how we
+could start building this system for Scientific Python by improving how
+docstrings are rendered in the IPython Notebook and other projects like Spyder,
+IEP or Canopy.
+
 
 <!--  LocalWords:  Spyder css numpy Scipy MathJax metadata Mathematica Ipython
  -->
@@ -71,4 +80,6 @@ community.
 <!--  LocalWords: sphinxify markdown flyspell oinspect numpydoc ipython API
  -->
 <!--  LocalWords:  DataFrame qtconsole SciPy frontend reStructured Javascript
+ -->
+<!--  LocalWords:  doctests
  -->
