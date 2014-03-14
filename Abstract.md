@@ -3,11 +3,11 @@
 
 # Brief description
 
-Our aim in this talk is to present a new library (tentatively called
-`oinspect`) which would take a docstring written in reStructured Text (or
-otherwise) and create two different representations of it: a rich one (based on
-HTML and including images, highlighted doctests and rendered Latex) and a plain
-text one (including extra information, like an object's class and constructor
+Our aim in this talk is to present a new library (tentatively called oinspect)
+which would take a docstring written in reStructured Text (or otherwise) and
+create two different representations of it: a rich one (based on HTML and
+including images, highlighted doctests and rendered Latex) and a plain text one
+(including extra information, like an object's class and constructor
 docstrings).
 
 
