@@ -1,5 +1,16 @@
 <!-- -*- mode: markdown; mode: flyspell; mode: auto-fill -*- -->
 
+
+# Brief description
+
+Our aim in this talk is to present a new library (tentatively called
+`oinspect`) which would take a docstring written in reStructured Text (or
+otherwise) and create two different representations of it: a rich one (based on
+HTML and including images, highlighted doctests and rendered Latex) and a plain
+text one (including extra information, like an object's class and constructor
+docstrings).
+
+
 # Towards a better documentation system for Scientific Python
 
 *Author*: Carlos Cordoba <ccordoba12@gmail.com>
@@ -41,8 +52,6 @@ representations of a docstring:
 
 - A plain text version, to be used by the IPython terminal and which would be
   mostly the same as the current IPython representation.
-  
-- A simplified HTML version, to be used by IPython's qtconsole frontend.
 
 - And a rich HTML one to be used by Spyder and the IPython Notebook.
 
@@ -61,5 +70,5 @@ community.
  -->
 <!--  LocalWords: sphinxify markdown flyspell oinspect numpydoc ipython API
  -->
-<!--  LocalWords:  DataFrame qtconsole SciPy frontend reStructured
+<!--  LocalWords:  DataFrame qtconsole SciPy frontend reStructured Javascript
  -->
