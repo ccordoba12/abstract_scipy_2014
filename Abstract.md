@@ -47,8 +47,8 @@ project to successfully extract class and constructor docstrings for objects
 that admit it. In many cases (e.g. Pandas `DataFrame`s) the real source of an
 object's help is one or both of those docstrings instead of its own one.
 
-`oinspect` would provide a public API to ask for three different
-representations of a docstring:
+`oinspect` would provide a public API to ask for two different representations
+of a docstring:
 
 - A plain text version, to be used by the IPython terminal and which would be
   mostly the same as the current IPython representation.
